@@ -5,7 +5,7 @@ import {
   faInstagram,
   faLinkedinIn,
   faGithubAlt,
-  faDribbble,
+  faDev,
   faTwitter,
   faFacebookF,
 } from '@fortawesome/free-brands-svg-icons';
@@ -22,7 +22,7 @@ export class SocialComponent implements OnInit {
   faInstagram = faInstagram;
   faLinkedinIn = faLinkedinIn;
   faGithubAlt = faGithubAlt;
-  faDribbble = faDribbble;
+  faDev = faDev;
   faTwitter = faTwitter;
   faMapMarkedAlt = faMapMarkedAlt;
   faFacebookF = faFacebookF;
@@ -48,7 +48,7 @@ export class SocialComponent implements OnInit {
         opacity: 1,
       })
       .add({
-        targets: '.dribbble',
+        targets: '.dev',
         opacity: 1,
       })
       .add({

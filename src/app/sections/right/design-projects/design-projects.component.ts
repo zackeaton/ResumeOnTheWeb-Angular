@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Lightbox } from 'ngx-lightbox';
-import { faDribbble } from '@fortawesome/free-brands-svg-icons';
+import { faDev } from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-design-projects',
@@ -8,7 +8,7 @@ import { faDribbble } from '@fortawesome/free-brands-svg-icons';
   styleUrls: ['./design-projects.component.scss']
 })
 export class DesignProjectsComponent implements OnInit {
-  faDribbble = faDribbble;
+  faDev = faDev;
 
   graphicDesignProjects = [
     {

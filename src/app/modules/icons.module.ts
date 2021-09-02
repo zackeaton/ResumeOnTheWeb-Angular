@@ -10,7 +10,7 @@ import {
   faGithub,
   faGithubAlt,
   faGooglePlusG,
-  faDribbble,
+  faDev,
   faLinkedinIn
 } from '@fortawesome/free-brands-svg-icons';
 import {
@@ -37,7 +37,7 @@ export class IconsModule {
       faGithub,
       faGithubAlt,
       faGooglePlusG,
-      faDribbble,
+      faDev,
       faLinkedinIn
     );
     library.add(

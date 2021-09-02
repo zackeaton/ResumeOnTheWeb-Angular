@@ -9,33 +9,26 @@ export class EducationComponent implements OnInit {
 
   education = [
     {
-      icon: '/assets/education/dsi.png',
-      title: 'Dayananda Sagar College of Engineering',
-      period: '2015 - 2018',
-      major: 'Bachelor of Engineering in Computer Science & Engineering',
-      grade: '62%'
-    },
-    {
-      icon: '/assets/education/dsi.png',
-      title: 'Dayananda Sagar Intitute of Technology',
-      period: '2012 - 2015',
-      major: 'Diploma in Computer Science & Engineering',
-      grade: '80%'
-    },
-    {
-      icon: '/assets/education/jvvp.png',
-      title: 'Jnana Vijnana Vidyapeetha',
-      period: '2008 - 2011',
-      major: 'High School, CBSE',
-      grade: '7.2 CGPA'
-    },
-    {
-      icon: '/assets/education/sams.png',
-      title: 'Sri Aurobindo Memorial School',
-      period: '2000 - 2008',
-      major: 'Elementary & Primary School, CBSE',
+      icon: '/assets/education/umsl.png',
+      title: 'University of Missouri St. Louis',
+      period: '2014 - 2019',
+      major: 'Bachelor of Science in Information Systems & Technology',
       grade: ''
-    }
+    },
+    {
+      icon: '/assets/education/realtor.png',
+      title: 'Missouri Real Estate Commission',
+      period: '2015',
+      major: 'Missouri Real Estate License',
+      grade: ''
+    },
+    {
+      icon: '/assets/education/fhn.png',
+      title: 'Francis Howell North',
+      period: '2010 - 2014',
+      major: 'High School Diploma',
+      grade: ''
+    },
   ];
 
   constructor() {}
