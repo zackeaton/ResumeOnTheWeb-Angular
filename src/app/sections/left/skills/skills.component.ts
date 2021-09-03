@@ -10,6 +10,11 @@ export class SkillsComponent implements OnInit {
 
   skills = [
     {
+      icon: 'shopify',
+      name: 'Ecommerce',
+      tech: 'Shopify/WooCommerce/WordPress',
+    },
+    {
       icon: 'web',
       name: 'Web Design & Development',
       tech: 'HTML/CSS/Javascript',
@@ -17,7 +22,7 @@ export class SkillsComponent implements OnInit {
     {
       icon: 'angular',
       name: 'Frontend Javascript Frameworks',
-      tech: 'AngularJS/Angular 7/React/Vue.js',
+      tech: 'React/Vue.js/Angular/Svelte',
     },
     {
       icon: 'nodejs',
@@ -25,14 +30,9 @@ export class SkillsComponent implements OnInit {
       tech: 'Node.js/Express.js/Mongoose',
     },
     {
-      icon: 'flutter',
-      name: 'Cross Platform App Development',
-      tech: 'Dart/Flutter/Firebase',
-    },
-    {
-      icon: 'python',
-      name: 'Python Scripting',
-      tech: 'Python 3/BeautifulSoup/PyMongo',
+      icon: 'sprout',
+      name: 'Influencer Marketing',
+      tech: 'Social Media, Affiliatly, Management',
     },
     {
       icon: 'database',
@@ -40,19 +40,19 @@ export class SkillsComponent implements OnInit {
       tech: 'MySQL/Postgres/MongoDB',
     },
     {
-      icon: 'android',
-      name: 'Android App Development',
-      tech: 'Android Studio/Java + Kotlin/XML',
+      icon: 'hubspot',
+      name: 'Customer Relationship Management',
+      tech: 'HubSpot/Asana/ZenDesk',
     },
     {
-      icon: 'sketch',
-      name: 'UI/UX Design',
-      tech: 'Adobe Photoshop/Illustrator/XD & Sketch',
+      icon: 'powerbi',
+      name: 'Analytics & Reporting',
+      tech: 'Power BI/Google Analytics/Excel',
     },
     {
-      icon: 'tensorflow',
-      name: 'Machine Learning',
-      tech: 'Scikit-Learn/TensorFlow/Keras',
+      icon: 'instagram',
+      name: 'Social Media',
+      tech: 'Content Management, Paid Ads, Analytics',
     },
     {
       icon: 'seo',
@@ -67,7 +67,7 @@ export class SkillsComponent implements OnInit {
     {
       icon: 'fcpx',
       name: 'Photo & Video Post-Processing',
-      tech: 'Adobe After Effects/Final Cut Pro X',
+      tech: 'Premiere Pro, iMovie, In-Shot',
     },
   ];
 
