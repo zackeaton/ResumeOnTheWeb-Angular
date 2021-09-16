@@ -11,23 +11,30 @@ export class VolunteerWorkComponent implements OnInit {
 
   volunteerWork = [
     {
-      title: 'Lead Organizer of a Blood Donation Drive',
+      title: 'TwitchCon',
       description:
-        'Oversaw close to 1000+ students actively participating in the Donation Drive which was organized at Sagar Hospitals, Bengaluru.'
+        'Summer 2019'
     },
     {
-      title: 'Development of CalamityControl.com',
+      title: 'E3 Expo',
       description:
-        'A project created at the nick of time to crowd-source disaster information and get a more\
-        detailed area-by-area view on the safezones of a calamity struck area, compared to the disaster safety check by Facebook.'
+      'Summer 2019'
+
     },
     {
-      title: 'Development of ChennaiRains.org',
+      title: 'Fortnite World Cup',
       description:
-        'A crowd-sourced repository of information created overnight that was used at a time of dire\
-        need by many people stranded in the floods of Chennai and surrounding areas.',
-      link:
-        'http://blog.venturesity.com/heres-amruth-pillai-used-hacking-skills-help-people-chennai'
+      'Summer 2019'
+    },
+    {
+      title: 'Rocket League Championship Season Series 7',
+      description:
+      'Summer 2019'
+    },
+    {
+      title: 'DevUp',
+      description:
+      'Spring 2019'
     },
   ];
 

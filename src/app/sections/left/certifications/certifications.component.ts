@@ -11,28 +11,34 @@ export class CertificationsComponent implements OnInit {
 
   certifications = [
     {
-      title: 'The Complete React Native and Redux Course',
-      issuer: 'Udemy',
-      link: 'https://www.udemy.com/certificate/UC-YKERES98/',
-    },
-    {
-      title: 'Applied CS with Android',
+      title: 'Google Analytics',
       issuer: 'Google',
-      link: 'https://drive.google.com/open?id=0B_jhT3IlN2-2VEtXYXFzQW9Oam8',
+      link: 'https://analytics.google.com/analytics/academy/certificate/LU8kuQ_JRA29_BqXQWAy3w',
     },
     {
-      title: 'Data Science & Machine Learning using Python',
-      issuer: 'Udemy',
-      link: 'https://www.udemy.com/certificate/UC-F86GHHXF/',
+      title: 'Beginner Javascript',
+      issuer: 'Wes Bos',
+      link: 'https://courses.wesbos.com/account/certificate/5e1dfa15ff799660b70ff27e',
     },
     {
-      title: 'Java - Level 1 & 2',
-      issuer: 'Cambridge Certification Authority',
-      link: 'https://drive.google.com/open?id=0B_jhT3IlN2-2UGdXNGo1QkdBUEU',
+      title: 'Become a Junior WordPress Developer',
+      issuer: 'LinkedIn Learning',
+      link: 'https://drive.google.com/file/d/1JBJk0m6jNq6ULyh2IZs2bls7fIcY0M-X/view?usp=sharing',
     },
     {
-      title: 'Dynamic Skills Integrated Program',
-      issuer: 'DSI - Center for Innovation and Leadership (CIL)',
+      title: 'Become a Front-End Web Developer',
+      issuer: 'LinkedIn Learning',
+      link: 'https://drive.google.com/file/d/1JBJk0m6jNq6ULyh2IZs2bls7fIcY0M-X/view?usp=sharing',
+    },
+    {
+      title: 'Inbound Certification',
+      issuer: 'HubSpot',
+      link: 'https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/c9f5af306aea4a03853bb1b96f660271-1598478688921.png'
+    },
+    {
+      title: 'Solutions Partner',
+      issuer: 'HubSpot',
+      link: 'https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/793e3e8dbbd04da886e11b6043ca83e8-1601484519090.png'
     }
   ];
 

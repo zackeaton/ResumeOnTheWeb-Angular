@@ -9,24 +9,24 @@ export class AchievementsComponent implements OnInit {
 
   achievements = [
     {
-      title: 'International Flutter Hackathon \'19 <small>(BLR Hub)</small>',
-      position: '1st Place'
+      title: 'National Honor Society of Leadership & Success',
+      position: 'Member'
     },
     {
-      title: 'Venturesity Banyan Hack \'16',
-      position: '1st Place'
+      title: 'CompTIA AITP',
+      position: 'Member'
     },
     {
-      title: 'eGovernments Foundation Hackathon \'17',
-      position: '1st Place'
+      title: 'UMSL|Hack',
+      position: 'Member'
     },
     {
-      title: 'Smart India Hackathon \'17 <small>(National Level)</small>',
-      position: '1st Place'
+      title: 'Information Systems Programming Club',
+      position: 'Member'
     },
     {
-      title: 'NIT Trichy - Pragyan Hackathon \'16',
-      position: '3rd Place'
+      title: 'Dean\'s List',
+      position: 'Fall \'18, Spring \'19'
     },
   ];
 
