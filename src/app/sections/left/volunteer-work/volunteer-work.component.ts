@@ -11,6 +11,26 @@ export class VolunteerWorkComponent implements OnInit {
 
   volunteerWork = [
     {
+      title: 'Figma Schema',
+      description:
+        'Fall 2021'
+    },
+    {
+      title: 'Jamstack Conf',
+      description:
+        'Fall 2021'
+    },
+    {
+      title: 'CodeLand 2021',
+      description:
+        'Fall 2021'
+    },
+    {
+      title: 'GoDaddy Expand',
+      description:
+        'Summer 2021'
+    },
+   /*  {
       title: 'TwitchCon',
       description:
         'Summer 2019'
@@ -30,7 +50,7 @@ export class VolunteerWorkComponent implements OnInit {
       title: 'Rocket League Championship Season Series 7',
       description:
       'Summer 2019'
-    },
+    }, */
     {
       title: 'DevUp',
       description:
