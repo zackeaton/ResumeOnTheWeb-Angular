@@ -12,7 +12,7 @@ export class SkillsComponent implements OnInit {
     {
       icon: 'shopify',
       name: 'Ecommerce',
-      tech: 'Shopify/WooCommerce/WordPress',
+      tech: 'WooCommerce/WordPress/Shopify/',
     },
     {
       icon: 'web',
