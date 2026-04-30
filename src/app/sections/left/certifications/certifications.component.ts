@@ -13,7 +13,7 @@ export class CertificationsComponent implements OnInit {
     {
       title: 'AI Fluency: Framework & Foundations',
       issuer: 'Anthropic Education',
-      link: '',
+      link: 'https://verify.skilljar.com/c/vqv9e3haacos',
     },
     {
       title: 'Google Analytics',
