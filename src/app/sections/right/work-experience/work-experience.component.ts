@@ -9,11 +9,18 @@ export class WorkExperienceComponent implements OnInit {
 
   workExperience = [
     {
+      logo: '/assets/work/brooklynbrewery.png',
+      title: 'Brooklyn Brewery',
+      position: 'Digital Marketing Manager',
+      specialization: '',
+      period: 'Oct \'24 - current',
+    },
+    {
       logo: '/assets/work/sikich.png',
       title: 'Sikich LLC.',
-      position: 'Web Developer & Digital Marketing Specialist',
+      position: 'Full-Stack Web Developer & Digital Marketing Specialist',
       specialization: 'Wordpress, PHP, AJAX, Javascript',
-      period: 'April \'21 - current',
+      period: 'April \'21 - Sept \'24',
     },
     {
       logo: '/assets/work/zackeaton.png',
@@ -34,7 +41,7 @@ export class WorkExperienceComponent implements OnInit {
       title: 'EyePromise',
       position: 'Esports Product Manager',
       specialization: 'Social Media, Influencer Marketing, Content Creation',
-      period: 'May \'19 - April \'20',
+      period: 'Jan \'19 - April \'20',
     },
     {
       logo: '/assets/work/eaton.png',

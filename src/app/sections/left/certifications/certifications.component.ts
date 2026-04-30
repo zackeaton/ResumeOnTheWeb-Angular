@@ -11,24 +11,14 @@ export class CertificationsComponent implements OnInit {
 
   certifications = [
     {
+      title: 'AI Fluency: Framework & Foundations',
+      issuer: 'Anthropic Education',
+      link: '',
+    },
+    {
       title: 'Google Analytics',
       issuer: 'Google',
       link: 'https://analytics.google.com/analytics/academy/certificate/LU8kuQ_JRA29_BqXQWAy3w',
-    },
-    {
-      title: 'Beginner Javascript',
-      issuer: 'Wes Bos',
-      link: 'https://courses.wesbos.com/account/certificate/5e1dfa15ff799660b70ff27e',
-    },
-    {
-      title: 'Become a Junior WordPress Developer',
-      issuer: 'LinkedIn Learning',
-      link: 'https://drive.google.com/file/d/1JBJk0m6jNq6ULyh2IZs2bls7fIcY0M-X/view?usp=sharing',
-    },
-    {
-      title: 'Become a Front-End Web Developer',
-      issuer: 'LinkedIn Learning',
-      link: 'https://drive.google.com/file/d/1JBJk0m6jNq6ULyh2IZs2bls7fIcY0M-X/view?usp=sharing',
     },
     {
       title: 'Inbound Certification',
